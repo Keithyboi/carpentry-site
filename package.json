@@ -1,0 +1,26 @@
+{
+  "name": "carpentry-site",
+  "version": "1.0.0",
+  "description": "Lee Pearce Carpentry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keithyboi/carpentry-site.git"
+  },
+  "keywords": [
+    "Carpentry"
+  ],
+  "author": "Keith Binding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keithyboi/carpentry-site/issues"
+  },
+  "homepage": "https://github.com/Keithyboi/carpentry-site#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
